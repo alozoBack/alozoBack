@@ -10,4 +10,4 @@
 <br>
 
 > [!IMPORTANT]
-> ![WTFPL](http://www.wtfpl.net/download/wtfpl-badge-3/)
+> [![WTFPL](http://www.wtfpl.net/download/wtfpl-badge-3/)](http://www.wtfpl.net)
